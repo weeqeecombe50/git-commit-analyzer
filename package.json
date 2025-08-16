@@ -1,7 +1,7 @@
 {
   "name": "git-commit-analyzer",
   "version": "1.0.0",
-  "description": "Ein Werkzeug zur Analyse und Visualisierung von Git-Commit-Historien.",
+  "description": "A tool for analyzing and visualizing Git commit histories.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
