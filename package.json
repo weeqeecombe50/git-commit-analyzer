@@ -21,11 +21,5 @@
     "type": "git",
     "url": "git+https://github.com/username/git-commit-analyzer.git"
   },
-  "homepage": "https://github.com/username/git-commit-analyzer#readme",
-  "translation": {
-    "de": {
-      "name": "git-commit-analyzer",
-      "description": "Ein Tool zur Analyse und Visualisierung von Git-Commit-Historien."
-    }
-  }
+  "homepage": "https://github.com/username/git-commit-analyzer#readme"
 }
