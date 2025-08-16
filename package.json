@@ -14,5 +14,11 @@
   "devDependencies": {
     "nodemon": "^2.0.12"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "translation": {
+    "de": {
+      "name": "git-commit-analyzer",
+      "description": "Ein Tool zur Analyse und Visualisierung von Git-Commit-Historien."
+    }
+  }
 }
