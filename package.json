@@ -21,6 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/username/git-commit-analyzer.git"
   },
+  "homepage": "https://github.com/username/git-commit-analyzer#readme",
   "translation": {
     "de": {
       "name": "git-commit-analyzer",
